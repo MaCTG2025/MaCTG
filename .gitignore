@@ -1,0 +1,46 @@
+# vscode
+*vscode
+
+
+# cache
+*__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# dataset/results
+*dataset
+*test_cases
+*HE
+*test
+*scripts
+*evaluation*
+
+# useless py
+/*.py
+
+# apikey
+*api_key
+
+# rag scripts
+RAG/*.py
+RAG/*.txt
+
+# RAG bak
+RAG/*copy*
+
+# test text
+test_response.txt
+
+# DB file
+chroma_db
+
+# logs
+*log
+
+requirements.json
+
+**api**
+res.txt
+
+RAG
