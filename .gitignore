@@ -17,7 +17,9 @@
 *evaluation*
 
 # useless py
-/*.py
+evaluate.py
+retrieve_tests.py
+run.py
 
 # apikey
 *api_key
